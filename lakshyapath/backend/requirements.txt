@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+httpx
+langchain
+transformers
+torch
+sentence-transformers
+faiss-cpu
+indic-trans
+gTTS
+python-multipart
+jinja2
